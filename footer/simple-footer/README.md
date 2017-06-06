@@ -1,0 +1,1 @@
+This is a simple footer, made by simple HTML5 and CSS3.
